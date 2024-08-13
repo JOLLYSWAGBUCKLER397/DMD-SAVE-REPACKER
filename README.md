@@ -1,3 +1,4 @@
+source code taken from https://github.com/nquo/dmd-save-repacker
 
 Death Must Die save repacker, modifed to work with intel macs
 
